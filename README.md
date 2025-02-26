@@ -8,5 +8,7 @@ A test repository to learngit/github
 ## Authors
 - Deniz Vural
 
+## Git practice
+- Hello again!
 
 
