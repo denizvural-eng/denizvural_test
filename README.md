@@ -3,7 +3,8 @@ A test repository to learngit/github
 
 ## Purpose
 - create a remote repo on github
-- -practice git
+- practice git
+- learn stuff
 
 ## Authors
 - Deniz Vural
